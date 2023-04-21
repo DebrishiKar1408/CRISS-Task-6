@@ -1,0 +1,2 @@
+At first I used a turtlebot3 for the hetorSLAM. I exported the bot to a standard environment, used teleop to move it using the keyboard, and then used autonomous simulation along with HectorSLAM to map the given environment. 
+I then had to use a different bot for the 2d occupancy grid and 3d map. I tried using turtlebot's urdf instead of the bot used , but it failed. I was succesful in exporting the bot to its environment, and making it move using teleop, but the mapping part failed.
